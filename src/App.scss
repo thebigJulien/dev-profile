@@ -1,0 +1,33 @@
+.App {
+  padding: 20px;
+
+  main {
+
+    form {
+      width: 800px;
+      margin: 0 auto;
+  
+      .form-input {
+        margin: 20px 0;
+        .checkbox-input{
+          display: flex;
+        }
+      }
+    
+      label {
+        display: block;
+      }
+      .error {
+        color: red;
+        font-size: 15px;
+      }
+    }
+  
+  }
+  
+}
+
+
+
+
+
